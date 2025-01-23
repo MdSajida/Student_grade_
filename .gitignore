@@ -1,0 +1,11 @@
+# Ignore all files in bin/ (if generated classes are stored there)
+/bin/
+
+# Ignore IDE settings files (e.g., Eclipse)
+.classpath
+.project
+.settings/
+
+# Ignore Referenced Libraries and JRE System Library
+*.jar
+*.class
