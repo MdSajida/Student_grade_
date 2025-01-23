@@ -11,22 +11,22 @@ A **Student Grade Management System** built using **Java** and **MySQL**. This a
 ## Screenshots
 
 ### Admin Login
-![Admin Login](src/studgg_ss/admin_log.png)
+![Admin Login](studgg_ss/admin_log.png)
 
 ### Course Form
-![Course Form](src/studgg_ss/course-form.png)
+![Course Form](studgg_ss/course-form.png)
 
 ### Grade Report
-![Grade Report](src/studgg_ss/grade-report.png)
+![Grade Report](studgg_ss/grade-report.png)
 
 ### Grade Form
-![Grade Form](src/studgg_ss/grade_form.png)
+![Grade Form](studgg_ss/grade_form.png)
 
 ### Main Frame
-![Main Frame](src/studgg_ss/main_frame.png)
+![Main Frame](studgg_ss/main_frame.png)
 
 ### Student Form
-![Student Form](src/studgg_ss/student_form.png)
+![Student Form](studgg_ss/student_form.png)
 
 ## Technologies Used
 - **Java**: For building the application's core functionalities.
